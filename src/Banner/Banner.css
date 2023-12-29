@@ -1,0 +1,22 @@
+/* .ban {
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.4)),
+                      url('../assets/gabriel-heinzer-g5jpH62pwes-unsplash.jpg');
+    object-fit: cover;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 2px solid red;
+    background-attachment: fixed;
+  } */
+
+  .ban {
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 1.2), rgba(0, 0, 0, 0.5)),
+                      url('../assets/gabriel-heinzer-g5jpH62pwes-unsplash.jpg');
+    background-size: contain;
+    background-position: right;
+     /* Center the background image */
+    background-repeat: no-repeat;
+    /* border: 2px solid red; */
+    background-attachment: fixed;
+     /* Make sure the container spans the entire height of the viewport */
+/* Make sure the container spans the entire width of its parent */
+}
